@@ -1,0 +1,9 @@
+title: The Doctor and the Monkey
+tags:
+ - Beginner
+ - Story
+description: Chinese children's story.
+units:
+ - title: Story
+   content: cn_story.doctor_monkey.txt
+   stencils: cn_story.doctor_monkey.txt.yaml
